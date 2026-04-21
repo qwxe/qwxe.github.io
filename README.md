@@ -1,8 +1,3 @@
----
-layout: default
-title: Sanghoon Park's Homepage
----
-
 <table>
   <tbody>
     <tr>
