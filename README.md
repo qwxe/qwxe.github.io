@@ -1,3 +1,9 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sanghoon Park's Homepage</title>
+</head>
+
 <table>
   <tbody>
     <tr>
@@ -21,15 +27,14 @@
 </table>
 
 <hr>
-
-## Research Interests
-* Computer Architecture
-* Datacenter Architecture
-* AI Infrastructure
-
+<h2>Research Interests</h2>
+<ul>
+    <li>Computer Architecture</li>
+    <li>Datacenter Architecture</li>
+    <li>AI Infrastructure</li>
+</ul>
 <hr>
-
-## Education
+<h2>Education</h2>
 <ul>
     <li>
     <b>Sungkyunkwan University</b>, Suwon, Republic of Korea
@@ -51,8 +56,8 @@
 
 <hr>
 
-## Publications
+<h2>Publications</h2>
 To be updated
 
-## Honors and Awards
+<h2>Honors and Awards</h2>
 To be updated
